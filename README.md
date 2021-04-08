@@ -11,3 +11,9 @@ Image classification of handwritten characters
 # Model Architecture
 
 ![MA](https://github.com/nikitasingh01/ML_task/blob/main/Images_ML/1.PNG)
+# Author
+Nikita Singh
+# Resources
+1. https://www.tensorflow.org/tutorials/keras/classification
+2. https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7
+3. https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/ 
